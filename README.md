@@ -32,10 +32,10 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
+  
 [![My GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=anneshadas&show_icons=true&theme=dracula)](https://github.com/anneshadas)
 
 [![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=anneshadas&layout=compact&theme=dracula)](https://github.com/anneshadas)
-
 </div>
 
 ---
