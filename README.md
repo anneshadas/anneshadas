@@ -32,10 +32,11 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  
-[![My GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=anneshadas&show_icons=true&theme=dracula)](https://github.com/anneshadas)
 
-[![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=anneshadas&layout=compact&theme=dracula)](https://github.com/anneshadas)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=anneshadas&show_icons=true&theme=dracula)](https://github.com/anneshadas)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anneshadas&layout=compact&theme=dracula)](https://github.com/anneshadas)
+
 </div>
 
 ---
@@ -46,9 +47,10 @@
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=anneshadas&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/anneshadas)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anneshadas&theme=dracula&hide_border=false&border_radius=4)](https://github.com/anneshadas)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anneshadas&theme=dracula&hide_border=false&border_radius=4)](https://github.com/anneshadas)
 
 </div>
+
 
 ---
 
