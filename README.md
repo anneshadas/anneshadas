@@ -44,12 +44,11 @@
 ## 🏆 Trophies & Streaks
 
 <div align="center">
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=anneshadas&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/anneshadas)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anneshadas&theme=dracula&hide_border=false&border_radius=4)](https://github.com/anneshadas)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=anneshadas&theme=dracula&column=3&margin-w=15&margin-h=15"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=anneshadas&theme=dracula"/>
 </div>
+
 
 
 ---
