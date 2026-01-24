@@ -44,9 +44,15 @@
 ## 🏆 Trophies & Streaks
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anneshadas&theme=dracula&column=3&margin-w=15&margin-h=15"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=anneshadas&theme=dracula"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=anneshadas&theme=dracula&column=3&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies"
+  />
+  <br/><br/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=anneshadas&theme=dracula" 
+    alt="GitHub Streak"
+  />
 </div>
 
 
